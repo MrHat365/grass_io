@@ -15,7 +15,19 @@
 [NoCaptcha.io](https://www.nocaptcha.io/register?c=W9SAq9)
 
 
---- 
+
+---
+
+🔔 [交流社区](https://t.me/CoinMarketData_1): https://t.me/CoinMarketData_1
+
+💰 打赏捐赠：您的支持是我最大的动力
+
+    - EVM 地址: 0x0385dee0258d739cf5edfc3e387d6804d6884d1e
+    - SOL 地址: F4SZCw7UQxsYNrod8i5tniN6q2QDw2vibY1GDbWcGXqp
+    - BTC 地址: bc1p3zuhancea8t9xhlv0yh9742ar9nqgkjzd4tp09l6wdet7cr9v3zs4uhlqw
+
+
+---
 
 ## [项目详情](https://starrynift.art?referralCode=97il5__yye)
 
